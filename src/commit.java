@@ -13,9 +13,6 @@ public class commit {
 
         // all code is done
 
-        // i would like to say there is many good reason in agile
-
-        // status deneme
-
+        
     }
 }
