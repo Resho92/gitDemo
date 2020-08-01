@@ -8,7 +8,7 @@ public class HappyB20 {
 
        // a brand new line is added
         
-        // fetch
-        // merge
+        //git fetch
+        //git merge
     }
 }
